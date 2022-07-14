@@ -1237,3 +1237,7 @@ zapro.exe | ZoneAlarm IDS
 zonealarm.exe | ZoneAlarm IDS
 mantispm.exe | ZoneAlarm Internet Security Suite 2007
 mantispm.exe | ZoneAlarm Internet Security Suite 2007
+DeepUI.exe | Deep Instinct NGAV GUI Agent
+DeepStaticService.exe | Deep Instinct NGAV 
+DeepMgmtService.exe | Deep Instinct NGAV 
+DeepRPCServer.exe | Deep Instinct NGAV 
